@@ -25,7 +25,3 @@
 •	“What items are restricted to the UK?”
 •	“What’s the max parcel weight for Japan?”
 •	Link it to your restricted items database for dynamic responses.
-
-⸻
-
-Would you like me to prepare a prototype flow for the real-time compliance checker or help design the rule engine next? Let’s build something impressive! 🚀
